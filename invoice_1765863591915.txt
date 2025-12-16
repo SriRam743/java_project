@@ -1,0 +1,6 @@
+------ INVOICE ------
+Laptop x 2 = 110000.0
+Subtotal : 110000.0
+Discount : 5500.0
+Tax      : 19800.0
+Total    : 124300.0
